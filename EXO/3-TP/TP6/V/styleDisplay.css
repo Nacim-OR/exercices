@@ -1,0 +1,330 @@
+body{
+    background-image: url(image/fondStar.jpg);
+    color:  white;
+    font-size: 25px;
+}
+
+
+
+.yoda{
+    border-radius: 50%;
+    margin-left: 48%;
+}
+.class {
+    margin-left: 43%;
+}
+
+.debut {
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+} 
+
+.end { 
+    display: flex;
+    flex-direction: row;
+    margin-left: 180px ;
+}
+
+.bloc1 {
+    margin-left: 15%;
+    background-image: url(image/Coruscant-removebg-preview.png);
+    width: 190px;
+    height:200px ;
+}
+
+.bloc2 {
+    margin-left: 35%;
+    background-image: url(image/mandalore-removebg-preview.png);
+    width: 200px;
+    height: 190px;
+}
+
+.bloc3 {
+    margin-left: 15%;
+    background-image: url(image/naboo-removebg-preview.png);
+    width: 240px;
+    height: 190px
+}
+
+.bloc4 {
+    margin-left: 35%;
+    background-image: url(image/tatooine-removebg-preview.png);
+    width: 200px;
+    height: 200px;
+}
+
+.etoile{
+    margin-left: 45%;
+}
+
+.pc1{
+    border-radius: 50%;
+}
+
+.pc2{
+    border-radius: 50%;
+    
+}
+
+.pc3 {
+    border-radius: 50%;
+}
+
+.pc4 {
+    border-radius: 50%;
+}
+
+.pc5{
+    border-radius: 50%;
+}
+
+.pc6{
+    border-radius: 50%;
+}
+
+.pc7{
+    border-radius: 50%;
+}
+
+.pc8{
+    border-radius: 50%;
+}
+
+.pc9{
+    border-radius: 50%;
+}
+
+.pc10{
+    border-radius: 50%;
+}
+
+.pc11{
+    border-radius: 50%;
+}
+
+.pc12{
+    border-radius: 50%;
+}
+
+.pc13{
+    border-radius: 50%;
+}
+
+.pc14{
+    border-radius: 50%;
+}
+
+.pc15{
+    border-radius: 50%;
+}
+
+.pc16{
+    border-radius: 50%;
+}
+
+.place1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.echo1{
+
+    margin-left: 1%;
+}
+
+
+.place2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px ;
+}
+
+.echo2{
+
+    margin-left: 1%;
+}
+
+
+.place3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px ;
+}
+
+.echo3{
+
+    margin-left: 1%;
+}
+
+.place4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 40px ;
+}
+
+.echo4{
+
+    margin-left: 1%;
+}
+
+.place5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+.echo5{
+
+    margin-left: 1%;
+}
+
+.place6{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo6{
+
+    margin-left: 1%;
+}
+
+.place7{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo7{
+
+    margin-left: 1%;
+}
+
+.place8{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo8{
+
+    margin-left: 1%;
+}
+
+.place9{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+.echo9{
+
+    margin-left: 1%;
+}
+
+.place10{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 60px;
+}
+
+.echo10{
+
+    margin-left: 1%;
+}
+
+.place11{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 60px;
+}
+
+.echo11{
+
+    margin-left: 1%;
+}
+
+.place12{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 60px;
+}
+
+.echo12{
+
+    margin-left: 1%;
+}
+
+.place13{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.echo13{
+
+    margin-left: 1%;
+}
+
+.place14{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo14{
+
+    margin-left: 1%;
+}
+
+.place15{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo15{
+
+    margin-left: 1%;
+}
+
+.place16{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.echo16{
+
+    margin-left: 1%;
+}
+
+.file{
+    display: none;
+}
+
+.submit{
+    display: none;
+}
